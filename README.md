@@ -11,19 +11,19 @@ Este es un conversor de monedas desarrollado en Java que permite realizar conver
 ## Requisitos Previos
 - Java Development Kit (JDK) 11 o superior.
 - IntelliJ IDEA u otro IDE de tu preferencia.
-- Cuenta en [Exchange Rate API](https://www.exchangerate-api.com/) para obtener la API Key.
+- Cuenta en https://www.exchangerate-api.com/ para obtener la API Key.
 - Git 
 
 ## Instalación
 1. Clona el repositorio desde GitHub:
    ```
-   git clone https://github.com/tu_usuario/ConversorMonedas.git
+   git clone https://github.com/trololingo/ConversorMonedas.git
    ```
 2. Abre el proyecto en IntelliJ IDEA.
 3. Configura tu entorno de Java.
-4. Obtén una API Key de [Exchange Rate API](https://www.exchangerate-api.com/) y reemplázala en el archivo `ConversorMonedas.java`:
+4. Obtén una API Key de https://www.exchangerate-api.com/  y reemplázala en el archivo `ConversorMonedas.java`:
    ```java
-   String apiKey = "TU_API_KEY_AQUÍ";  // Reemplaza con tu API Key
+   String apiKey = 28f1be06b7d56b29bf2993c7 ;  //Nota: Reemplaza tu apiKey y ponga la suya, cuidado si pone la mia porque tendremos problemas
    ```
 
 ## Uso
@@ -31,7 +31,7 @@ Este es un conversor de monedas desarrollado en Java que permite realizar conver
 2. Al iniciar, el programa mostrará un menú con varias opciones de conversión.
 3. Ingresa la opción deseada y la cantidad que deseas convertir.
 4. El programa mostrará el valor equivalente de la moneda.
-
+nota: solo hice pocas moneras
 Ejemplo:
 ```
 Elige la opción de conversión:
