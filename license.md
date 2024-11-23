@@ -1,4 +1,4 @@
-MIT License
+My License
 
 Copyright (c) 2024 Tu Trololingo JM
 
